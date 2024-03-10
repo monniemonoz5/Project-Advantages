@@ -1,0 +1,26 @@
+{
+"name": "shenqibaima-wahah066",
+"version": "1.0.0",
+"description": "Understanding the advantages and characteristics of the project can help you better understand its value and significance.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/monniemonoz5/Project-Advantages.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "monniemonoz5",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
